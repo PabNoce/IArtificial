@@ -15,9 +15,12 @@ public class InteligenciaArtificial {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        
-        
+        String nombre;
+        Pedir pedir = new Pedir();
+        Muestra muestra = new Muestra();
+        nombre=pedir.nombre();
+        muestra.nombre(nombre);
+
     }
-    
+
 }
