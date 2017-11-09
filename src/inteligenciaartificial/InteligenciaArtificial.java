@@ -10,6 +10,7 @@ public class InteligenciaArtificial {
         muestra.nombre(nombre);
         
         System.out.println("siu");
+        System.out.println("siu2");
 
     }
 
