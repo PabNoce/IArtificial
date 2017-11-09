@@ -20,6 +20,7 @@ public class InteligenciaArtificial {
         Muestra muestra = new Muestra();
         nombre=pedir.nombre();
         muestra.nombre(nombre);
+        
 
     }
 
